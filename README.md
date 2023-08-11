@@ -1,2 +1,3 @@
-# Update-index.html
-Jeneba Class16-simple-website-deploy
+# Class16-simple-website-deploy
+Project class 16 website project
+This is a simple website deploy to an EC2 instance from GitHub with Jenkins
